@@ -1,1 +1,0 @@
-# Face-Recognition-on-Thermal-Image
